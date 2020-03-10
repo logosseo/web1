@@ -1,0 +1,1 @@
+<%@ Page Title="" Language="C#" ValidateRequest="false" AutoEventWireup="true" CodeFile="BasicMainXMLQuery.aspx.cs" Inherits="Basic_Main_BasicMainXMLQuery" %>
